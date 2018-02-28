@@ -1,0 +1,6 @@
+﻿  Chip8.cpp
+c:\users\timot\desktop\chip8emulator\chip8emulator\chip8.cpp(67): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+c:\users\timot\desktop\chip8emulator\chip8emulator\chip8.cpp(67): warning C4244: 'initializing': conversion from 'std::streamoff' to 'const int', possible loss of data
+c:\users\timot\desktop\chip8emulator\chip8emulator\chip8.cpp(581): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\timot\desktop\chip8emulator\chip8emulator\chip8.cpp(91): warning C4715: 'Chip8::LoadGame': not all control paths return a value
+  Chip8Emulator.vcxproj -> C:\Users\timot\Desktop\Chip8Emulator\x64\Debug\Chip8Emulator.exe
